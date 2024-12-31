@@ -34,16 +34,12 @@ Access the quiz by opening the `index.html` file in your browser or host the pro
 
 - A modern web browser (e.g., Chrome, Firefox, Edge).
 
-## Usage Instructions
-1. Open the quiz website.
-2. Select the correct answer for each question.
-3. Click the "Next" button to proceed to the next question.
-4. At the end of the quiz, view your total score.
 
 
-### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Sudeep-Bhandari/Online-Quiz-Website.git
+
+
+
+
+
    
