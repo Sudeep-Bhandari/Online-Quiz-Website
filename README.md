@@ -47,14 +47,8 @@ Access the quiz by opening the `index.html` file in your browser or host the pro
    ```bash
    git clone https://github.com/Sudeep-Bhandari/Online-Quiz-Website.git
 
+## Contribution
+Contributions are welcome! If you want to improve this project, feel free to fork the repository and submit a pull request.
 
-
-
-
-
-
-
-
-
-
-   
+## License
+This project is open-source and available under the [MIT](https://choosealicense.com/licenses/mit/).
