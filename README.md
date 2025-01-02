@@ -8,7 +8,6 @@ An interactive and responsive online quiz platform built using HTML, CSS, and Ja
 
 - **User-Friendly Interface**: Clean and responsive design for an engaging user experience.
 - **Dynamic Questions**: Display multiple-choice questions dynamically using JavaScript.
-- **Real-Time Feedback**: Provides instant feedback for each question.
 - **Score Tracker**: Tracks and displays the user's score at the end of the quiz.
 - **Responsive Design**: Works smoothly on desktop and mobile devices.
 
